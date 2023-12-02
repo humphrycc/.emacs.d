@@ -1,0 +1,11 @@
+.cache/
+.lsp-session-v1
+auto-save-list/
+backup/
+custom.el
+eln-cache/
+elpa/
+eshell/
+recentf
+transient/
+undo/
